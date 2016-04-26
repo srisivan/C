@@ -1,0 +1,15 @@
+This document highlights steps to write and compile C programs
+--------------------------------------------------------------
+
+
+1. Login into your account
+2. Change directory to C (#cd ~/workspace/C)
+3. Create a new folder if necessary
+4. Edit file (#vim filename.c)
+5. Compile with gcc (#gcc filename.c) this will create a a.out file
+6. Execute a.out
+7. Debug/Modify as necessary
+8. Add the files to Github
+	- git add filename.c
+	- git commit -m "Commit message"
+	- git push

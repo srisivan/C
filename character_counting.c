@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 
+
 /*count characters in input; 1st version*/
 int  main()
 {
@@ -14,6 +15,8 @@ int  main()
 	return 0;
 }
 
+/* The 'D' in the computer's output signifies as 'Decimal points'*/
 
+/* The output will consist the character 'Enter'*/
 
 
